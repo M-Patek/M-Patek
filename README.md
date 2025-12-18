@@ -1,4 +1,4 @@
-# 🧬Cognitive Systems Architect
+# 🧬 [M-Patek] Cognitive Systems Architect
 
 > **"Optimizing the process of thinking, not just the output of thought."**
 > *Welcome to the underlying protocol layer of the AGI Lab.*
