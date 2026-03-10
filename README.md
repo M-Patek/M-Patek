@@ -47,8 +47,8 @@ This is my personal art portfolio and the frontier where I explore "Code Aesthet
 
 ## 📅 Ongoing Labs
 
-- **[Agentic]**: Deeply exploring the cutting-edge AI command-line ecosystem (including Gemini CLI, Claude Code, and OpenAI Codex). Committed to deeply integrating multi-model CLI tools through reverse proxies and the Model Context Protocol (MCP). By skipping traditional IDE frameworks (like VS Code/Cursor), I focus on directly building Agentic interactive workflows based on fundamental LLM principles.
-
+- For **[Agentic]**: "Driving deep integration of elite AI-native CLI toolchains (Gemini CLI, Claude Code, OpenAI Codex) to build a unified, high-performance developer environment."
+- For **[Closed-loop]**: "Architecting end-to-end business closed-loops for AI Agents. My focus is evolving 'prompt-response' interactions into autonomous 'business execution engines' that bridge the gap between abstract logic and tangible commercial impact."
 ---
 
 #### 📫 Contact
