@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_banners/711333317004611586/1715619330/1500x500" alt="OpenAI Header" width="100%">
+</p>
+
 # 🧬 [M-Patek] | Cognitive Systems Architect
 
 > **"Optimizing the process of thinking, not just the output of thought."** 
